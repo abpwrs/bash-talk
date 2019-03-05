@@ -1,7 +1,7 @@
 # bash-talk
 Bash Talk for HackIowa Spring 2019     
   
-![bash-logo](https://github.com/abpwrs/bash-talk/blob/master/imgs/bash-logo.png)
+![bash-logo](https://github.com/abpwrs/bash-talk/blob/master/presentation/imgs/bash-logo.png)
    
       
 ## What is Bash
