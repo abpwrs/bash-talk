@@ -33,8 +33,8 @@ $ pip install -r requirements.txt
 ```  
   
 #### C++ (Optional)    
-you will need a c++ compiler      
-https://gcc.gnu.org/install/       
+you will need a c++ compiler(I'd use g++)        
+[instructions](https://www.cs.odu.edu/~zeil/cs250PreTest/latest/Public/installingACompiler/)    
 ```bash     
 # The following compiliers should be found, the same as bash above    
 $ which g++    
