@@ -1,6 +1,9 @@
 # bash-talk
 Bash Talk for HackIowa Spring 2019   
 
+## What is Bash
+BASH, the Bourne Again SHell, is an Unix Shell and command language that reads from the standard input or from a file. Bash allows you to interact with your filesystem and run scripts through your command line / terminal. This tutorial will focus on learning the basics of Bash as a language, as well as it's application in doing batch processing. 
+
 ## Setup instructions:  
 
 Dowload the talk contents:  
