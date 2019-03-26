@@ -12,7 +12,7 @@ BASH, the Bourne Again SHell, is an Unix Shell and command language that reads f
 Dowload the talk contents:  
 If you don't have git installed look [here](https://github.com/abpwrs/git-talk/blob/master/README.md)
 ```bash  
-$ git checkout https://github.com/abpwrs/bash-talk.git  
+$ git clone https://github.com/abpwrs/bash-talk.git  
 ```     
 You will also need a terminal/command line and your favorite text editor.  
 
